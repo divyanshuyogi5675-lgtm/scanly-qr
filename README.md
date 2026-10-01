@@ -11,10 +11,11 @@ The app is designed for people who want a simple QR generator without account cr
 ## Free download
 
 - **Latest release:** [Scanly QR v1.0.0](https://github.com/divyanshuyogi5675-lgtm/scanly-qr/releases/tag/v1.0.0)
-- **Free source download:** [Download ZIP](https://github.com/divyanshuyogi5675-lgtm/scanly-qr/archive/refs/tags/v1.0.0.zip)
+- **Direct APK download:** [Download Scanly QR v1.0.0 APK](https://github.com/divyanshuyogi5675-lgtm/scanly-qr/releases/download/v1.0.0/scanly-qr-v1.0.0.apk)
+- **Source code:** [Browse the repository](https://github.com/divyanshuyogi5675-lgtm/scanly-qr)
 - **All releases:** [github.com/divyanshuyogi5675-lgtm/scanly-qr/releases](https://github.com/divyanshuyogi5675-lgtm/scanly-qr/releases)
 
-> v1.0.0 currently provides the complete Expo/React Native source. The repository is ready for Android development and free community builds. Always verify the UPI ID and amount in your UPI app before confirming a payment.
+> v1.0.0 includes a ready-to-install Android APK and the complete Expo/React Native source. Always verify the UPI ID and amount in your UPI app before confirming a payment.
 
 ## Highlights
 
