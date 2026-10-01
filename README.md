@@ -1,6 +1,6 @@
 # Scanly QR — Offline UPI Payment QR & Link QR Generator
 
-[![Version](https://img.shields.io/badge/version-1.0.0-1c8a55.svg)](https://github.com/divyanshuyogi5675-lgtm/scanly-qr/releases/tag/v1.0.0)
+[![Version](https://img.shields.io/badge/version-1.0.1-1c8a55.svg)](https://github.com/divyanshuyogi5675-lgtm/scanly-qr/releases/tag/v1.0.1)
 [![Android](https://img.shields.io/badge/platform-Android-3ddc84.svg)](https://github.com/divyanshuyogi5675-lgtm/scanly-qr)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
@@ -10,12 +10,12 @@ The app is designed for people who want a simple QR generator without account cr
 
 ## Free download
 
-- **Latest release:** [Scanly QR v1.0.0](https://github.com/divyanshuyogi5675-lgtm/scanly-qr/releases/tag/v1.0.0)
-- **Direct APK download:** [Download Scanly QR v1.0.0 APK](https://github.com/divyanshuyogi5675-lgtm/scanly-qr/releases/download/v1.0.0/scanly-qr-v1.0.0.apk)
+- **Latest release:** [Scanly QR v1.0.1](https://github.com/divyanshuyogi5675-lgtm/scanly-qr/releases/tag/v1.0.1)
+- **Direct APK download:** [Download Scanly QR v1.0.1 APK](https://github.com/divyanshuyogi5675-lgtm/scanly-qr/releases/download/v1.0.1/scanly-qr-v1.0.1.apk)
 - **Source code:** [Browse the repository](https://github.com/divyanshuyogi5675-lgtm/scanly-qr)
 - **All releases:** [github.com/divyanshuyogi5675-lgtm/scanly-qr/releases](https://github.com/divyanshuyogi5675-lgtm/scanly-qr/releases)
 
-> v1.0.0 includes a ready-to-install Android APK and the complete Expo/React Native source. Always verify the UPI ID and amount in your UPI app before confirming a payment.
+> v1.0.1 includes a ready-to-install Android APK and the complete Expo/React Native source. Always verify the UPI ID and amount in your UPI app before confirming a payment.
 
 ## Highlights
 
@@ -65,6 +65,13 @@ npx expo export --platform android
 ```
 
 ## Version history
+
+### v1.0.1 — Custom branding and photo QR update
+
+- Added Scanly custom app logo and splash screen.
+- Added gallery photo selection with crop support.
+- Added photo-backed QR templates and composite PNG export.
+- Removed the old landing/privacy promo panel for a cleaner phone-first UI.
 
 ### v1.0.0 — Initial release
 

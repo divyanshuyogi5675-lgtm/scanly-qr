@@ -2,18 +2,24 @@
   "expo": {
     "name": "Scanly QR",
     "slug": "scanly-qr",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/scanly-logo.png",
+    "splash": {
+      "image": "./assets/scanly-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F7F8F3"
+    },
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "package": "com.scanlyqr.app",
+      "versionCode": 2,
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/android-icon-foreground.png",
+        "foregroundImage": "./assets/scanly-logo.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
